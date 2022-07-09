@@ -1,1 +1,1 @@
-Kumpulan program menggunakan aplikasi Delphi 7
+Kumpulan program menggunakan Pascal, C, C++, DELPHI, HTML, PHP 
